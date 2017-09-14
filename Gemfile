@@ -27,6 +27,9 @@ gem "figaro"
 #beutiful console
 gem 'awesome_print'
 
+gem 'sidekiq'
+gem 'puma', '~> 3.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
