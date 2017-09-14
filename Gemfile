@@ -27,6 +27,7 @@ gem "figaro"
 #beutiful console
 gem 'awesome_print'
 
+gem 'rails_12factor'
 gem 'redis'
 gem 'sidekiq'
 gem 'puma', '~> 3.0'
